@@ -1,2 +1,2 @@
 # Fraction
-A exer
+A exercise for objective-c
